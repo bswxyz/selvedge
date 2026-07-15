@@ -1,11 +1,43 @@
-# Selvedge
+<!-- parable:beautified -->
+<div align="center">
 
-**Live:** https://bswxyz.github.io/selvedge/ · **Build notes:** https://bswxyz.github.io/selvedge/guide/
+<h1>Selvedge</h1>
+
+<p><strong>Bespoke tailoring house — an annotated SVG measurement mannequin and a fabric bolt that unrolls to its weave.</strong></p>
+
+<p>
+  <a href="https://bswxyz.github.io/selvedge/"><img alt="Live demo" src="https://img.shields.io/badge/demo-live-8b5cf6?style=flat-square&labelColor=1a1a1a"></a>
+  <img alt="Family" src="https://img.shields.io/badge/family-Parable-ec4899?style=flat-square&labelColor=1a1a1a">
+  <img alt="Stack" src="https://img.shields.io/badge/stack-HTML%2FJS-f5a623?style=flat-square&labelColor=1a1a1a">
+  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square&labelColor=1a1a1a"></a>
+</p>
+
+<p>
+  <a href="https://bswxyz.github.io/selvedge/"><b>Live demo</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://bswxyz.github.io/selvedge/guide/">Build notes</a>
+  &nbsp;·&nbsp;
+  <a href="https://parable-three.vercel.app/templates">More templates</a>
+</p>
+
+<a href="https://bswxyz.github.io/selvedge/">
+  <img src=".github/preview.jpg" alt="Selvedge — live preview" width="100%">
+</a>
+
+</div>
+
+**Use this template** — copy the source into a new project:
+
+```bash
+npx degit bswxyz/selvedge my-app
+```
+
+
 
 A one-room bespoke tailoring house — an interactive SVG measuring figure draws calipers across a
 chalk-lined mannequin as you hover its five measures, and four bolts of illustrated cloth unroll
 (clip-path) as they scroll in. Part of the
-[Parable design showcase](https://bswxyz.github.io/fable-hub/).
+[Parable design showcase](https://parable-three.vercel.app).
 
 ---
 
@@ -88,4 +120,4 @@ responsive / reduced-motion / keyboard layer.
 
 ## License
 
-[MIT](LICENSE). Design & build by **Parable** (Anthropic's Claude).
+[MIT](LICENSE). Design & build by **Parable**.
